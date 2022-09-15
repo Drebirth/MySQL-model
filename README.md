@@ -1,5 +1,5 @@
 # MySQL-model
-Esquemas feito no MySQL workbench
+Alguns esquemas feito no MySQL workbench
 
 
 Desafio prosposto pela DIO, para modelagem de entidade relacional usando o MYSQL WORKBENCH
